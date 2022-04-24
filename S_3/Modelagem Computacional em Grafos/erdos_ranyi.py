@@ -1,3 +1,5 @@
+#Eduardo Fernandes
+#N_USP 12681733
 import numpy as np
 import random
 while True:
