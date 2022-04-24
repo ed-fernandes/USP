@@ -1,6 +1,7 @@
 
 #Eduardo Barroso Ribeiro Fernandes
 #N_USP: 12681733
+
 import numpy as np
 import imageio
 import matplotlib.pyplot as plt
